@@ -48,4 +48,4 @@ At the end of the project, following topics are to be covered;
 ![intro](./image.png)
 
 
-> Designed By DOGUKAN © Nov 2023
+> Designed By DOGUKAN © Jan 2024
